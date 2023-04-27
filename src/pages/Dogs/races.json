@@ -1,0 +1,110 @@
+[
+    {
+        "id": "corgi",
+        "name": "Corgi",
+        "size": "Médio",
+        "averagePrice": "R$ 10.000"
+    },
+    {
+        "id": "akita",
+        "name": "Akita",
+        "size": "Grande",
+        "averagePrice": "R$ 5.000"
+    },
+    {
+        "id": "basset-hound",
+        "name": "Basset Hound",
+        "size": "Médio",
+        "averagePrice": "R$ 2.000"
+    },
+    {
+        "id": "beagle",
+        "name": "Beagle",
+        "size": "Médio",
+        "averagePrice": "R$ 3.000"
+    },
+    {
+        "id": "bernese",
+        "name": "Bernese",
+        "size": "Grande",
+        "averagePrice": "R$ 4.000"
+    },
+    {
+        "id": "border-collie",
+        "name": "Border Collie",
+        "size": "Grande",
+        "averagePrice": "R$ 3.000"
+    },
+    {
+        "id": "chihuahua",
+        "name": "Chihuahua",
+        "size": "Pequeno",
+        "averagePrice": "R$ 7.000"
+    },
+    {
+        "id": "chowchow",
+        "name": "Chow Chow",
+        "size": "Médio",
+        "averagePrice": "R$ 2.000"
+    },
+    {
+        "id": "dalmata",
+        "name": "Dalmata",
+        "size": "Médio",
+        "averagePrice": "R$ 4.000"
+    },
+    {
+        "id": "golden-retriever",
+        "name": "Golden Retriever",
+        "size": "Grande",
+        "averagePrice": "R$ 3.500"
+    },
+    {
+        "id": "husky-siberiano",
+        "name": "Husky Siberiano",
+        "size": "Grande",
+        "averagePrice": "R$ 2.500"
+    },
+    {
+        "id": "labrador",
+        "name": "Labrador",
+        "size": "Grande",
+        "averagePrice": "R$ 1.500"
+    },
+    {
+        "id": "lulu",
+        "name": "Lulu da Pomerânia",
+        "size": "Pequeno",
+        "averagePrice": "R$ 3.500"
+    },
+    {
+        "id": "pitbull",
+        "name": "Pitbull",
+        "size": "Médio",
+        "averagePrice": "R$ 2.000"
+    },
+    {
+        "id": "poodle",
+        "name": "Poodle",
+        "size": "Médio",
+        "averagePrice": "R$ 1.000"
+    },
+    {
+        "id": "rottweiler",
+        "name": "Rottweiler",
+        "size": "Grande",
+        "averagePrice": "R$ 2.000"
+    },
+    {
+        "id": "shihtzu",
+        "name": "Shihtzu",
+        "size": "Pequeno",
+        "averagePrice": "R$ 1.500"
+    },
+    {
+        "id": "vira-lata",
+        "name": "Vira Lata",
+        "size": "Médio",
+        "averagePrice": "GRÁTIS"
+    }
+]

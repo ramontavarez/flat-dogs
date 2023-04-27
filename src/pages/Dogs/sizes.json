@@ -1,0 +1,14 @@
+[
+    {
+        "id": "pequeno",
+        "name": "Pequeno"
+    },
+    {
+        "id": "medio",
+        "name": "Médio"
+    },
+    {
+        "id": "grande",
+        "name": "Grande"
+    }
+]
