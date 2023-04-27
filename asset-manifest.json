@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/flat-dogs/static/css/main.22a7a53e.css",
-    "main.js": "/flat-dogs/static/js/main.7c0f43bd.js",
+    "main.css": "/flat-dogs/static/css/main.02022e71.css",
+    "main.js": "/flat-dogs/static/js/main.dee0da52.js",
     "static/media/banner.png": "/flat-dogs/static/media/banner.5f5c6cd948174c41a4be.png",
     "index.html": "/flat-dogs/index.html",
-    "main.22a7a53e.css.map": "/flat-dogs/static/css/main.22a7a53e.css.map",
-    "main.7c0f43bd.js.map": "/flat-dogs/static/js/main.7c0f43bd.js.map"
+    "main.02022e71.css.map": "/flat-dogs/static/css/main.02022e71.css.map",
+    "main.dee0da52.js.map": "/flat-dogs/static/js/main.dee0da52.js.map"
   },
   "entrypoints": [
-    "static/css/main.22a7a53e.css",
-    "static/js/main.7c0f43bd.js"
+    "static/css/main.02022e71.css",
+    "static/js/main.dee0da52.js"
   ]
 }
